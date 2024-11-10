@@ -49,7 +49,7 @@ Driver es el que acepta las solicitudes de viaje a los usuarios y presta el serv
 * **Actualizar disponibilidad(PUT /driver/{driverId}/udpate/status):** Actualizar disponibilidad del conductor
 * **Actualizar localización (PUT /driver/{driverId}/udpate/location):** Actualizar la localización del conductor cuando vuelva a estar disponible
 
-  #### Ride
+#### Ride
 Ride es el viaje y contiene lo que es el id del usuario y el conductor para conocer quienes son los participantes del viaje, localización inicial, localización final y localización actual, también conocer el precio y el estado del viaje, como (WaitingResponseDriver,UserWaitingDriverTraveling,Traveling, finish).
 ##### Modelo
 
