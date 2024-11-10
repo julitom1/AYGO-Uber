@@ -11,6 +11,8 @@ Diseño de un prototipo y una arquitectura microservicios para la aplicación de
 
 ### Video de funcionalidad
 
+https://www.youtube.com/watch?v=Bc5y65gXbwE
+
 ### Base de datos (EC2 - MongoDb)
 
 Se esta usando una Ec2 que contiene un docker que esta eecutando la base de datos mongoDb, y se esta usando un volumen en el Docker para su persistencia.
